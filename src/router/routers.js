@@ -52,6 +52,15 @@ export default [
   },
   {
     path: '',
+    name: 'doc1',
+    meta: {
+      title: '文档2',
+      href: 'https://lison16.github.io/iview-admin-doc/#/',
+      icon: 'ios-lock'
+    }
+  },
+  {
+    path: '',
     name: 'doc',
     meta: {
       title: '文档',
